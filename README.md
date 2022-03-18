@@ -23,7 +23,7 @@
 
 <h5 style="color: #FFF">Lista</h5>
 
-[Lista](lista.md)
+[Lista](Lista.md)
 
 <h5 style="color: #FFF">Desafio</h5>
 
