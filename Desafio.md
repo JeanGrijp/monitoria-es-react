@@ -4,7 +4,11 @@
 
 <h5 style="color: #FFF">1. Crie uma PokeDex.</h5>
 
-- O usuário deve escrever o Nome do pokemón, tipo, HP, os ataques que esse pokemón tem e a força de cada ataque.
-- Simule uma batalha pokemón.
+- O usuário deve escrever o Nome do pokemón, tipo, HP, ataques e a força de cada ataque.
+
+<h5 style="color: #FFF">2. Utilizando o conhecimento da monitoria de Node.</h5>
+
+- Crie uma API que receba os dados do front-end e guarde as informações (onde quiser).
+- Permita que o usuário procure, edite, e apague um pokemón da lista (CRUD).
 
 </div>
