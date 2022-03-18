@@ -14,11 +14,17 @@
 <h5 style="color: #FFF">Links úteis</h5>
 
 [React](https://pt-br.reactjs.org/)
+
 [Coolors](https://coolors.co/)
+
 [Jest](https://jestjs.io/pt-BR/)
+
 [Axios](https://blog.rocketseat.com.br/axios-um-cliente-http-full-stack/)
+
 [React Icons](https://react-icons.github.io/react-icons/)
+
 [Pexels](https://www.pexels.com/pt-br/)
+
 [Styled-components](https://styled-components.com/)
 
 <h5 style="color: #FFF">Lista</h5>
