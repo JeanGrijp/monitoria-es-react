@@ -23,11 +23,11 @@
 
 <h5 style="color: #FFF">Lista</h5>
 
-[Lista](lista.mdx)
+[Lista](lista.md)
 
 <h5 style="color: #FFF">Desafio</h5>
 
-[Desafio](Desafio.mdx)
+[Desafio](Desafio.md)
 
 <h5 style="color: #FFF">PokeAPI</h5>
 
