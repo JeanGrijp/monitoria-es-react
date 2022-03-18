@@ -13,8 +13,6 @@
 
 <h5 style="color: #FFF">3. Da PokeAPI, exiba em tela as seguintes informações:</h5>
 
-- Uma rota POST ou PUT /user onde se insere um user com nome, idade e estado civil numa base de dados
-- UMA rota DELETE /user/(nome) onde se deletaria da base o usuário que possuir esse nome
-- Uma rota GET com /user/(nome) onde se pegaria o user pelo nome e devolveria a quem busca as informações dele
+- Nome e tipo do pokemón.
 
 </div>
