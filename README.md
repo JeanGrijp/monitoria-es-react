@@ -39,6 +39,6 @@
 
 https://pokeapi.co/
 
-<h3 style="color: #9BF3F0">Beba Água <3</h3>
+<h3 style="color: #9BF3F0">Bebam Água <3</h3>
 
 </div>
